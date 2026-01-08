@@ -9,18 +9,19 @@ While ViT captures global image features, Swin Transformer excels at extracting 
 Evaluated on two benchmark datasets, Corn and PlantDoc, our model achieved accuracies of 98.81% and 81.81%, respectively, surpassing recent works. 
 Here, we demonstrate the effectiveness of combining complementary transformer architectures to enhance disease identification in diverse agricultural settings.
 
-### Dataset 
+## Dataset 
 The dataset used in this research can be downloaded from the following links:                                                                                                    
 Corn Dataset: https://www.kaggle.com/datasets/smaranjitghose/corn-or-maize-leaf-disease-dataset                                                                                  
 PlantDoc Dataset: https://www.kaggle.com/datasets/abdulhasibuddin/plant-doc-dataset
 
-#### Architecture
+## Architecture
 The proposed Hybrid Architecture is given below:
 <img width="940" height="644" alt="image" src="https://github.com/user-attachments/assets/f4faa9c6-ceee-4fed-9571-0473771e1bd0" />
 
-##### Reproducing Results & Figures
+## Reproducing Results & Figures
+This repository provides a script, Hybrid Swin-ViT model.py, to facilitate the reproduction of key results from the paper, including model training, figure generation, and inference.
 
-The results are given below:
-<img width="944" height="976" alt="image" src="https://github.com/user-attachments/assets/e3efcb03-1353-4982-907d-261d82ba638e" />
+## Using Pip
+``` !pip install -q git+https://github.com/huggingface/transformers
 
 
