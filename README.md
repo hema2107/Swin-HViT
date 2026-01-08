@@ -1,4 +1,4 @@
-#Swin-HViT: A Hybrid Transformer Approach for Accurate Early-Stage Crop Disease Diagnosis
+Swin-HViT: A Hybrid Transformer Approach for Accurate Early-Stage Crop Disease Diagnosis
 
 Agriculture plays a pivotal role in global economic growth, yet it faces significant challenges from pests and crop diseases. 
 Early detection is crucial for preventing large-scale crop losses and ensuring food security. 
