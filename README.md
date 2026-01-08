@@ -19,7 +19,7 @@ The proposed Hybrid Architecture is given below:
 <img width="940" height="644" alt="image" src="https://github.com/user-attachments/assets/f4faa9c6-ceee-4fed-9571-0473771e1bd0" />
 
 ## Reproducing Results & Figures
-This repository provides a script, Hybrid Swin-ViT model.py, to facilitate the reproduction of key results from the paper, including model training, figure generation, and inference.
+This repository provides a script 'Hybrid Swin-ViT model.py' to facilitate the reproduction of key results from the paper, including model training, figure generation, and inference.
 
 ## Using Pip
 ``` !pip install -q git+https://github.com/huggingface/transformers ```
