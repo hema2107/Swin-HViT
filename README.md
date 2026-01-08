@@ -24,5 +24,6 @@ This repository provides a script 'Hybrid Swin-ViT model.py' to facilitate the r
 ## Using Pip
 ``` !pip install -q git+https://github.com/huggingface/transformers ```
 
+https://doi.org/10.5281/zenodo.18182700
 
 
