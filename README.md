@@ -7,7 +7,7 @@ While ViT captures global image features, Swin Transformer excels at extracting 
 Evaluated on two benchmark datasets, Corn and PlantDoc, our model achieved accuracies of 98.81% and 81.81%, respectively, surpassing recent works. 
 Here, we demonstrate the effectiveness of combining complementary transformer architectures to enhance disease identification in diverse agricultural settings.
 
-The dataset used in this research can be downloaded from the following links:
+The dataset used in this research can be downloaded from the following links:                                                                                                    
 Corn Dataset: https://www.kaggle.com/datasets/smaranjitghose/corn-or-maize-leaf-disease-dataset                                                                                  
 PlantDoc Dataset: https://www.kaggle.com/datasets/abdulhasibuddin/plant-doc-dataset
 
