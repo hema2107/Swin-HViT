@@ -14,7 +14,7 @@ PlantDoc Dataset: https://www.kaggle.com/datasets/abdulhasibuddin/plant-doc-data
 The proposed Hybrid Architecture is given below:
 <img width="940" height="644" alt="image" src="https://github.com/user-attachments/assets/f4faa9c6-ceee-4fed-9571-0473771e1bd0" />
 
-The Python file Hybrid Swin-ViT model.ipynb contains the necessary code for constructing and evaluating the hybrid model.  
+The Python file ![Github-1](https://github.com/user-attachments/assets/a8347fd5-13a8-44ec-98bc-aee7d45b0794) contains the necessary code for constructing and evaluating the hybrid model.  
 
 The results are given below:
 <img width="944" height="976" alt="image" src="https://github.com/user-attachments/assets/e3efcb03-1353-4982-907d-261d82ba638e" />
