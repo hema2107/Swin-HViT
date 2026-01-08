@@ -11,7 +11,7 @@ The dataset used in this research can be obtained using the following link:
 Corn Dataset: https://www.kaggle.com/datasets/smaranjitghose/corn-or-maize-leaf-disease-dataset
 PlantDoc Dataset: https://www.kaggle.com/datasets/abdulhasibuddin/plant-doc-dataset
 
-Proposed Hybrid Architecture is given below:
+The proposed Hybrid Architecture is given below:
 <img width="940" height="644" alt="image" src="https://github.com/user-attachments/assets/f4faa9c6-ceee-4fed-9571-0473771e1bd0" />
 
 The results are given below:
