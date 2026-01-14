@@ -25,5 +25,6 @@ This repository provides a script 'Hybrid Swin-ViT model.py' to facilitate the r
 ``` !pip install -q git+https://github.com/huggingface/transformers ```
 
 https://doi.org/10.5281/zenodo.18182700                                                                                                                                  
-This code is related to the manuscript that is submitted to the Journal "The Visual Computer" 
+This code is related to the manuscript that is submitted to the Journal "The Visual Computer" it is available at https://doi.org/10.21203/rs.3.rs-8588269/v1
+
 
